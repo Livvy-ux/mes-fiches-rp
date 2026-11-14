@@ -48,7 +48,7 @@
     flex: 1;
     font-size: 25px;
     line-height: 28px;
-    font-family: 'Caladea', sans-serif;
+    font-family: 'Lucida Calligraphy', Georgia, serif;
     align-self: center;
     color: #fff;
     text-shadow: 1px 1px 0 #c94e62;
@@ -58,7 +58,9 @@
     width: 400px;
     margin: 0 auto 15px;
     text-align: justify;
-    font-size: 12px;
+    font-family: 'Caladea', Georgia, serif;
+    font-size: 14px;
+    line-height: 1.6;
     color: #E0D8DC !important;
 }
 
