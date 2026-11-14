@@ -116,3 +116,16 @@
     font-size: 8px;
     letter-spacing: 1px;
 }
+
+.heart.heart-dark {
+    background: #252025 !important;
+}
+
+.heart.heart-dark .heart-header,
+.heart.heart-dark .heart-footer {
+    background: #873F46 !important;
+}
+
+.heart.heart-dark .heart-txt {
+    color: #E0D8DC !important;
+}
