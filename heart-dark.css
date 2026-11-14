@@ -1,0 +1,118 @@
+
+@import url('https://fonts.googleapis.com/css?family=Montserrat:400,900|Roboto');
+
+.heart * {
+    box-sizing: border-box;
+}
+
+.heart {
+    width: 500px;
+    margin: auto;
+    background: #fff;
+    font-family: 'Tempus Sans ITC', sans-serif;
+    position: relative;
+}
+
+.heart a {
+    text-decoration: none !important;
+}
+
+.heart-header {
+    background: #CC0099;
+    display: flex;
+    padding: 20px;
+    margin-bottom: 40px;
+}
+
+.heart-header > div {
+    padding: 10px;
+    width: 100px;
+    height: 100px;
+    border-color: #fff;
+    border-style: dotted;
+    border-width: 1px 3px 1px 3px;
+    margin: auto;
+    border-radius: 50%;
+    box-sizing: content-box;
+}
+
+.heart-header > div img {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
+
+.heart-header h2 {
+    margin: 0 20px 0 0;
+    font-weight: normal;
+    flex: 1;
+    font-size: 25px;
+    line-height: 28px;
+    font-family: 'Caladea', sans-serif;
+    align-self: center;
+    color: #fff;
+    text-shadow: 1px 1px 0 #c94e62;
+}
+
+.heart .heart-txt {
+    width: 400px;
+    margin: 0 auto 15px;
+    text-align: justify;
+    font-size: 12px;
+    color: #444444 !important;
+}
+
+.heart .heart-txt b {
+    color: #de8193;
+    font-family: 'Caladea', sans-serif;
+}
+
+.heart .heart-txt u {
+    border-bottom: 1px solid #de8193;
+    text-decoration: none;
+}
+
+.heart .heart-txt a {
+    color: #c94e62;
+    transition: color 0.3s;
+}
+
+.heart .heart-txt a:hover {
+    color: #de8193;
+}
+
+.heart-footer {
+    background: #CC0099;
+    padding: 20px 65px;
+    margin-top: 40px;
+    display: flex;
+}
+
+.heart-footer tag {
+    background: #fff;
+    color: #c94e62;
+    padding: 2px 6px;
+    font-size: 12px;
+    border-radius: 10px;
+    font-family: 'Caladea', sans-serif;
+}
+
+.heart-footer div {
+    color: #fff;
+    font-size: 7px;
+    letter-spacing: 1px;
+    align-self: center;
+    flex: 1;
+    margin-left: 5px;
+}
+
+.heart-credit {
+    position: absolute;
+    bottom: -15px;
+}
+
+.heart-credit a {
+    color: #ccc !important;
+    font-size: 8px;
+    letter-spacing: 1px;
+}
