@@ -131,3 +131,13 @@
 .heart.heart-dark .heart-txt {
     color: #E0D8DC !important;
 }
+
+.heart .heart-header h2 {
+    font-family: 'Lucida Calligraphy', Georgia, serif !important;
+}
+
+.heart .heart-txt {
+    font-family: 'Caladea', Georgia, serif !important;
+    font-size: 14px !important;
+    line-height: 1.6;
+}
