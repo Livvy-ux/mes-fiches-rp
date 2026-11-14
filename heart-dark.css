@@ -8,7 +8,7 @@
 .heart {
     width: 500px;
     margin: auto;
-    background: #fff;
+    background: #252025;
     font-family: 'Tempus Sans ITC', sans-serif;
     position: relative;
 }
@@ -18,7 +18,7 @@
 }
 
 .heart-header {
-    background: #CC0099;
+    background: #873F46;
     display: flex;
     padding: 20px;
     margin-bottom: 40px;
@@ -59,7 +59,7 @@
     margin: 0 auto 15px;
     text-align: justify;
     font-size: 12px;
-    color: #444444 !important;
+    color: #E0D8DC !important;
 }
 
 .heart .heart-txt b {
@@ -82,7 +82,7 @@
 }
 
 .heart-footer {
-    background: #CC0099;
+    background: #873F46;
     padding: 20px 65px;
     margin-top: 40px;
     display: flex;
